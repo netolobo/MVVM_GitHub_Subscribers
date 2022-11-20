@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Github Followers</string>
+    <string name="loading_followers">Loading followers</string>
+    <string name="empty_list_message">You don\'t have any follower yet!</string>
+</resources>
